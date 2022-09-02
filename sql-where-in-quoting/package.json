@@ -13,7 +13,7 @@
     {
       "name": "index",
       "title": "Quote for WHERE IN",
-      "description": "Convert a simple list of string into a quoted and comma-separated list.j",
+      "description": "Convert a simple list of string into a quoted and comma-separated list.",
       "mode": "view"
     }
   ],
