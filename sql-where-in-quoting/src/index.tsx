@@ -38,7 +38,7 @@ export default function Command() {
           <Action.SubmitForm onSubmit={handleSubmit} title="Convert" />
           <Action.SubmitForm
             onSubmit={(values: Values) => handleSubmit(values, false)}
-            title="Convert without quoting"
+            title="Convert without Quoting"
             shortcut={{ modifiers: ["cmd", "shift"], key: "enter" }}
           />
         </ActionPanel>
